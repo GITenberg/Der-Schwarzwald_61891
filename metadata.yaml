@@ -1,11 +1,16 @@
 _repo: Der-Schwarzwald_61891
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61891-h/images/cover.jpg
 creator:
   author:
     agent_name: Neumann, Ludwig
     gutenberg_agent_id: '51662'
     url: http://www.gutenberg.org/2009/agents/51662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61891#Der-Schwarzwald
 gutenberg_issued: '2020-04-22'
 gutenberg_type: Text
 identifiers:
